@@ -3,7 +3,7 @@
 ## Overview
 The frontend is a modular React application designed for scalability, maintainability, and clear separation of concerns. It supports a modern dashboard experience for workspace, team, AI, and API key management.
 
----
+--- This will also change
 
 ## Key Architectural Decisions
 
